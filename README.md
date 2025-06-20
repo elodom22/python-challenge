@@ -1,7 +1,7 @@
 # python-challenge
 This challenge introduces Python programming for financial and election data analysis. Participants will complete two tasks: PyBank, which involves writing a script to analyze company financial records, calculating metrics like total months, net profit/loss, and major fluctuations; and PyPoll, which requires creating a script to process election data, determining total votes, candidate statistics, and the winner. The challenge emphasizes Python’s ability to handle large datasets more efficiently than Excel, reinforcing key programming concepts such as file handling, loops, and debugging.
 
-##Notes:
+## Notes:
 Logic and example code studied from the following links:
 https://stackoverflow.com/questions/32879491/python-listsetlist-to-remove-duplicates
 
